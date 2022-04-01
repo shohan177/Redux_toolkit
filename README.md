@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## comand nedd
+
+### `npm install redux`
+
+### `npm install react-redux`
+
+### `npm install @reduxjs/toolkit`
+
 ## Available Scripts
 
 In the project directory, you can run:
